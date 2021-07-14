@@ -1,0 +1,46 @@
+h2{
+	text-align: center;
+}
+.campuslifediv img{
+	width: 380px;
+	height: 350px;
+}
+.campuslifediv{
+	float: left;
+}
+#maps iframe{
+	width: 50%;
+}
+.infrastructure_head{
+	font-size: 20px;
+	padding: 6px 20px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+.infrastructure_head i{
+	float: right;
+}
+#image1{
+	height: 150px;
+}
+#book1{
+	height: 400px;
+}
+#book2{
+	height: 400px;
+}
+#book3{
+	height: 400px;
+}
+#book4{
+	height: 400px;
+}
+#maps{
+	height: 400px;
+	width: 50%;
+}
+#video{
+	margin-left: 150px;
+}
